@@ -25,4 +25,8 @@
 
 `带宽受限，通道关闭`
 
+##### 网络教程
+
+- [菜鸟教程](https://www.runoob.com/cplusplus/cpp-tutorial.html)
+
 > 本文案转载自[H3Z-OI-Tutorial-2020 哈三中2020年信息竞赛暑期课堂讲义](https://gitee.com/Cannon_fotter/H3Z-OI-Tutorial-2020/tree/master)，进行了适当的删改
