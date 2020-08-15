@@ -13,7 +13,7 @@
 
 ##### PPT
 
-- [Day1 顺序结构]ppt/1顺序结构.pptx)
+- [Day1 顺序结构](ppt/1顺序结构.pptx)
 
 - [Day2 选择结构](Day2_选择结构.md)
 
