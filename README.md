@@ -38,6 +38,6 @@
 
 ### 传送门
 
-![](img\logo_TTT.png "TTT官网 coming soon")
+![](img\logo_TTT.png "coming soon")
 
-[苦力怕水博客](https://creeperwater.github.io/)
+[![](img\logo_creeper.jpg "苦力怕水博客")](https://creeperwater.github.io/)
