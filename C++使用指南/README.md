@@ -14,17 +14,11 @@
 ##### PPT
 
 - [Day1 顺序结构](ppt/1顺序结构.pptx)
-
 - [Day2 选择结构](ppt/2选择结构.pptx)
-
 - [Day3 循环结构](ppt/3循环结构.pptx)
-
 - [Day4 数组](ppt/4数组.pptx)
-
 - [Day5 字符串](ppt/5字符串.pptx)
-
 - [Day6 函数](ppt/6函数.pptx)
-
 - [几种评测结果和常见编译错误指北](https://shimo.im/slides/H9crtyWC6qPHtjJc/)
 
 ##### 视频
