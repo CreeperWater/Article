@@ -13,19 +13,31 @@
 - ##### 联系我
 
 你可以[发邮件](http://mail.qq.com/cgi-bin/qm_share?t=qm_mailme&email=creeperwater@qq.com "creeperwater@qq.com")或在这些平台关注我
-1. [Twitter](https://twitter.com/creeperlqb)
-2. [YouTube](https://www.youtube.com/channel/UC75HTtnmfiMCeyC6Rhtq4tA)
-3. [Instagram](https://www.instagram.com/creeperlqb)
-4. [哔哩哔哩](https://space.bilibili.com/310226410)
-5. [捷径盒](https://jiejinghe.com/users/7611382328)
-6. [知乎](http://www.zhihu.com/people/creeperwater)
+- [Twitter](https://twitter.com/creeperlqb)
+- [YouTube](https://www.youtube.com/channel/UC75HTtnmfiMCeyC6Rhtq4tA)
+- [Instagram](https://www.instagram.com/creeperlqb)
+- [哔哩哔哩](https://space.bilibili.com/310226410)
+- [捷径盒](https://jiejinghe.com/users/7611382328)
+- [知乎](http://www.zhihu.com/people/creeperwater)
 
 ### 目录
 
 - [C++使用指南](C++使用指南)
+
 - 快捷指令手册
+
 - [苹果完全使用指南](苹果完全使用指南)
+
 - 小米使用指南
+
 - 内蒙古游记
+
 - 这四年，我们共同走过
+
 - 这三年，走一步，再走一步
+
+### 传送门
+
+![logo_TTT](img\logo_TTT.png)
+
+[苦力怕水博客](https://creeperwater.github.io/)
