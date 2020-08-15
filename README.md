@@ -20,7 +20,7 @@
 5. [捷径盒](https://jiejinghe.com/users/7611382328)
 6. [知乎](http://www.zhihu.com/people/creeperwater)
 ### 目录
-- [C++使用指南](C++使用指南)
+- [C++使用指南](C++使用指南/README.md)
 - 快捷指令手册
 - [苹果完全使用指南](苹果完全使用指南)
 - 小米使用指南
