@@ -36,8 +36,8 @@
 
 ### 传送门
 
-![](img\logo_TTT.png "coming soon")
+[![](img\logo_TTT.png "coming soon")](https://space.bilibili.com/586981559/)
 
 [![](img\logo_creeper.jpg "苦力怕水博客")](https://creeperwater.github.io/)
 
-![](img\logo_shortcuts.png)
+[![](img\logo_shortcuts.png)](快捷指令)
