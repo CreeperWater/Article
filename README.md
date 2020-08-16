@@ -24,11 +24,9 @@
 
 - [C++使用指南](C++使用指南)
 
-- 快捷指令手册
+- 快捷指令
 
 - [苹果完全使用指南](苹果完全使用指南)
-
-- 小米使用指南
 
 - 内蒙古游记
 
@@ -41,3 +39,5 @@
 ![](img\logo_TTT.png "coming soon")
 
 [![](img\logo_creeper.jpg "苦力怕水博客")](https://creeperwater.github.io/)
+
+![](img\logo_shortcuts.png)
